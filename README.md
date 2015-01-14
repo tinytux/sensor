@@ -24,11 +24,12 @@ Elasticsearch, Logstash and Kibana can be used to visualize the log data:
 
 Usage on Debian Wheezy 7.8:
 
-    $ git clone https://github.com/tinytux/sensor.git 
+    $ git clone https://github.com/tinytux/sensor.git
     $ cd sensor/dashboard
     $ ./start.sh
     $ ./feedlogs.sh ./logdata/logdata.txt
 
+Then visit [http://localhost:9292/index.html#/dashboard/elasticsearch/SensorDashboard](http://localhost:9292/index.html#/dashboard/elasticsearch/SensorDashboard)
 
 Source code: [dashboard](dashboard)
 

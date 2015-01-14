@@ -12,6 +12,8 @@ Required hardware:
 - Adafruit HIH6130 Humidity Sensor Breakout
 - Adafruit 7-segment LED HT16K33 backpack
 
+![image](sensor-micropython.jpg "Sensor with Micro Python PYB v1.0")
+
 Source code: [micropython](micropython)
 
 ## Kibana Dashboard
@@ -29,5 +31,4 @@ Usage on Debian Wheezy 7.8:
 
 
 Source code: [dashboard](dashboard)
-
 

@@ -22,8 +22,9 @@ Elasticsearch, Logstash and Kibana can be used to visualize the log data:
 
 ![screenshot](sensor-dashboard-screenshot.png "Sensor dashboard screenshot")
 
-Usage on Debian Wheezy 7.8:
+Usage on Debian Jessie 8:
 
+    $ sudo apt-get install default-jre-headless curl
     $ git clone https://github.com/tinytux/sensor.git
     $ cd sensor/dashboard
     $ ./start.sh

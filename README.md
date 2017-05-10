@@ -22,6 +22,8 @@ Elasticsearch, Logstash and Kibana can be used to visualize the log data:
 
 ![screenshot](sensor-dashboard-screenshot.png "Sensor dashboard screenshot")
 
+(A more advanced dashboard with Docker can be found [here](https://github.com/tinytux/solar-dashboard))
+
 Usage on Debian Jessie 8:
 
     $ sudo apt-get install default-jre-headless curl
